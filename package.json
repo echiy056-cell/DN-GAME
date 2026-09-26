@@ -1,0 +1,9 @@
+{
+  "name": "death-note-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "@napi-rs/canvas": "^0.1.65"
+  }
+}
